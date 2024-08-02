@@ -1,2 +1,2 @@
 ## Applying the tools of mathematics to the data of language
-Analyzing James Joyce's masterpiece "Finnegans Wake".
+James Joyce's masterpiece "Finnegans Wake" is considered the most difficult book in the Western World. It is hardly possible to read. Oh, let's use Machine Learning then...
