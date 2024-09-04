@@ -4,7 +4,6 @@ James Joyce's masterpiece "Finnegans Wake" is considered the most difficult book
 - photo of James Joyce, year 1918
 - building a text corpus
 - pos_tag (Part of Speech tagging)
-- words, sentences, punctuations
+- find words, sentences, punctuations
 - distributional structure in language
-- find words, sentences or signs in text
 - work in progress...
