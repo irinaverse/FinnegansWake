@@ -8,5 +8,3 @@ James Joyce's masterpiece "Finnegans Wake" is considered the most difficult book
 - distributional structure in language
 - quotes, word info
 - work in progress...
-
-As a word lover, I have found word creativity at its finest! This book is a world treasure!
