@@ -6,5 +6,5 @@ James Joyce's masterpiece "Finnegans Wake" is considered the most difficult book
 - pos_tag (Part of Speech tagging)
 - find words, sentences, punctuations
 - distributional structure in language
-- notice the takt
+- notice the takt and word movement
 - amazing work in progress...
