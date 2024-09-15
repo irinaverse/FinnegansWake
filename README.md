@@ -7,4 +7,5 @@ James Joyce's masterpiece "Finnegans Wake" is considered the most difficult book
 - find words, sentences, punctuations
 - distributional structure in language
 - notice the takt and word movement
+- detect mistakes, always check-up your data
 - amazing work in progress...
