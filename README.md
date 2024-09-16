@@ -2,7 +2,7 @@
 Am I dreaming? No. I'm living in my dream! James Joyce's masterpiece "Finnegans Wake" is considered the most difficult book ever written in the Western World. It is hardly possible to read and an arduous task for humans. With the help of modern Data Science, I am sallying forth to find the secret of Mr. Joyce joyous writings:
 
 Part IV
-- a $360^{\circ}$ story
+- the book is a $360^{\circ}$ story
 - photo of James Joyce, year 1918
 - building text corpus
 - pos_tag (Part of Speech tagging)
