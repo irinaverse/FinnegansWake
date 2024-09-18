@@ -10,6 +10,7 @@ Part IV
 - distributional structure in language
 - notice the takt and word movement
 - detect mistakes, always check-up your data
+- "Yes!" exponential growth is "Oyes! Oyeses! Oyesesyeses!"
 
 Part I
 - amazing work in progress...
