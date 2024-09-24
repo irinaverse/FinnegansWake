@@ -13,4 +13,7 @@ Part IV
 - "Yes!" exponential growth is "Oyes! Oyeses! Oyesesyeses!"
 
 Part I
+- "Hohohoho, Mister Finn, you’re going to be Mister Finnagain!"
+- building text corpus
+- the sound of the words
 - amazing work in progress...
