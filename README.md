@@ -15,5 +15,6 @@ Part IV
 Part I
 - "Hohohoho, Mister Finn, you’re going to be Mister Finnagain!"
 - building text corpus
-- the sound of the words
+- the sound of words
+- grateful
 - amazing work in progress...
