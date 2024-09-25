@@ -16,5 +16,5 @@ Part I
 - "Hohohoho, Mister Finn, you’re going to be Mister Finnagain!"
 - building text corpus
 - the sound of words
-- grateful
+- first discovered sentence is the math Δ sentence
 - amazing work in progress...
