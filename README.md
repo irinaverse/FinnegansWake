@@ -17,4 +17,5 @@ Part I
 - building text corpus
 - the sound of words
 - first discovered sentence is the math Δ sentence
+- selecting with pandas
 - amazing work in progress...
