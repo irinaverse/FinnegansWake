@@ -12,7 +12,7 @@ Please, start reading from notebook Part IV:
 - detect mistakes, always check-up your data
 - "Yes!" exponential growth is "Oyes! Oyeses! Oyesesyeses!"
 
-Part I
+Followed by Part I:
 - "Hohohoho, Mister Finn, you’re going to be Mister Finnagain!"
 - building text corpus
 - the sound of words
