@@ -18,4 +18,5 @@ Followed by Part I:
 - the sound of words
 - first discovered sentence is the math Δ sentence
 - selecting with pandas
-- amazing work in progress...
+- the most weird part, including "iSpace"
+- Yes!, James Joyce nailed it nearly 100 years ago, with the term "iSpace"
