@@ -19,4 +19,6 @@ Followed by Part I:
 - first discovered sentence is the math Δ sentence
 - selecting with pandas
 - the most weird part, including "iSpace"
-- Yes!, James Joyce nailed it nearly 100 years ago, with the term "iSpace"
+- Yes!, James Joyce nailed it 100 years ago, with the term "iSpace"
+
+The book $Finnegans$ $Wake$ began to appear in installments in 1924.
