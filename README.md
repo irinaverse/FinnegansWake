@@ -9,7 +9,7 @@ Please, start reading from notebook Part IV:
 - words, sentences, punctuations
 - distributional structure in language
 - notice the takt and word movement
-- detect mistakes, always check-up your data
+- detect mistakes in the study, always check-up your data
 - "Yes!" exponential growth is "Oyes! Oyeses! Oyesesyeses!"
 
 Followed by Part I:
