@@ -21,4 +21,4 @@ Followed by Part I:
 - the most complex section, including "iSpace"
 - Yes!, James Joyce nailed it 100 years ago, with the term "iSpace"
 
-The book $Finnegans$ $Wake$ began to appear in installments in 1924.
+The book $Finnegans$ $Wake$ began to appear in 1922.
