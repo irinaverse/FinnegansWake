@@ -1,5 +1,9 @@
 ## Applying the tools of mathematics to the data of language
-James Joyce's masterpiece "Finnegans Wake" is considered the most difficult book ever written in the Western World. It is hardly possible to read and an arduous task for humans. With the help of Data Science, I am sallying forth to explore Mr. Joyce joyous writings:
+<br />
+
+James Joyce's masterpiece *Finnegans Wake* is considered the most difficult book ever written in the Western World. It is hardly possible to read and an arduous task for humans. With the help of Data Science, I'm sallying forth to explore Mr. Joyce joyous writings.
+
+<br />
 
 Please, start reading from notebook Part IV:
 - the whole book is a $360^{\circ}$ story
@@ -11,6 +15,7 @@ Please, start reading from notebook Part IV:
 - notice the takt and word movement
 - detect mistakes in the study, always check-up your data
 - "Yes!" exponential growth is "Oyes! Oyeses! Oyesesyeses!"
+<br />
 
 Followed by Part I:
 - "Hohohoho, Mister Finn, you’re going to be Mister Finnagain!"
@@ -18,7 +23,5 @@ Followed by Part I:
 - the sound of words
 - first discovered sentence is the math Δ sentence
 - selecting with pandas
-- the most complex section, including "iSpace"
-- Yes!, James Joyce nailed it 100 years ago, with the term "iSpace"
-
-The book $Finnegans$ $Wake$ began to appear in 1922.
+- the most complex section, including *iSpace*
+- Yes!, James Joyce nailed it 100 years ago, with the term *iSpace*
