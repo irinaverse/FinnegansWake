@@ -23,4 +23,4 @@ Followed by Part I:
 - first discovered sentence is the math Δ sentence
 - selecting with pandas
 - the most complex section, including *iSpace*
-- Yes!, James Joyce nailed it 100 years ago, with the term *iSpace*
+- Yes!, *iSpace* was coined by James Joyce 100 years ago
