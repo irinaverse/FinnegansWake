@@ -24,18 +24,17 @@ Followed by Part I:
 - selecting with pandas
 - the most complex section, including *iSpace*
 - *iSpace* was coined by James Joyce 100 years ago
+<br />
 
 My book is out! My studies at university, materialized:
 
-<img src="https://github.com/user-attachments/assets/ca14f4ff-32e2-4d91-adff-e13cf4998dca" width="170" height="290">
-
-I tell you no story. Smile!
-James Joyce's masterpiece Finnegans Wake
+<img src="https://github.com/user-attachments/assets/ca14f4ff-32e2-4d91-adff-e13cf4998dca" width="170" height="290"> I tell you no story. Smile!<br />
+James Joyce's masterpiece Finnegans Wake<br />
 Quotation Selection in poetic form
 
-Published by Ira Books Publishing
-ISBN 978-619-93357-2-7
-Retail price: EUR 18
-Trade price: request wholesale pricing
+Published by Ira Books Publishing\
+ISBN 978-619-93357-2-7\
+Retail price: EUR 18\
+Trade price: request wholesale pricing\
 Contact: inedyalkova152025@gmail.com
 
