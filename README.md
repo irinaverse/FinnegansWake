@@ -28,7 +28,7 @@ Followed by Part I:
 
 My book is out!
 
-<img src="https://github.com/user-attachments/assets/ca14f4ff-32e2-4d91-adff-e13cf4998dca" width="170" height="290"> I tell you no story. Smile!<br />
+<img src="https://github.com/user-attachments/assets/ca14f4ff-32e2-4d91-adff-e13cf4998dca" width="220" height="290"> I tell you no story. Smile!<br />
 James Joyce's masterpiece Finnegans Wake<br />
 Quotation Selection in poetic form
 
