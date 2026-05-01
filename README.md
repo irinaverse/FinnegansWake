@@ -30,13 +30,14 @@ My book is out!
 
 <img src="https://github.com/user-attachments/assets/ca14f4ff-32e2-4d91-adff-e13cf4998dca" width="220" height="290">
 <br />
-I tell you no story. Smile!\
-James Joyce's masterpiece Finnegans Wake\
-Quotation Selection in poetic form
+I tell you no story. Smile!<br />
+James Joyce's masterpiece Finnegans Wake<br />
+Quotation Selection in poetic form<br />
 <br />
-Published by Ira Books Publishing\
-ISBN 978-619-93357-2-7\
-Retail price: EUR 18\
-Trade price: request wholesale pricing\
+Published by Ira Books Publishing<br />
+ISBN 978-619-93357-2-7<br />
+Retail price: EUR 18<br />
+Trade price: request wholesale pricing<br />
+<br />
 Contact: inedyalkova152025@gmail.com
 
