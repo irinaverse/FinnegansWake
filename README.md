@@ -40,4 +40,4 @@ Retail price: EUR 18<br />
 Trade price: request wholesale pricing<br />
 <br />
 Contact: inedyalkova152025@gmail.com
-
+<br />
